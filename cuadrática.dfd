@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+62
+"Ingrese los tres datos necesarios para la formula cuadrática"
+5
+1
+7
+A, B, C
+6
+1
+1
+D
+11
+B^2 - 4*A*C
+7
+0
+1
+5
+D < 0
+6
+2
+2
+X1
+16
+(-B + D) / (2*A)
+2
+X2
+16
+(-B - D) / (2*A)
+4
+1
+2
+X1
+4
+1
+2
+X2
+13
+4
+1
+30
+"no existen soluciones reales"
+13
+1
