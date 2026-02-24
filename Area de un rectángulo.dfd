@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+base
+1
+0
+6
+altura
+1
+0
+4
+area
+1
+0
+4
+1
+63
+"calcule el area de un rectangulo a partir de su base y altura"
+5
+1
+11
+base,altura
+6
+1
+4
+area
+11
+base*altura
+4
+1
+18
+"el area es ",area
+1
